@@ -1,6 +1,6 @@
 # Tableau_Retail_Store_Dashboard
 ## Introduction
-This project is aimed to create a Sales dashboard for a retail food store and to enhance my data visualization skills in Tableau for current and future work. The dashboard presents product performance data for a retail store, with the goal of helping business leaders better understand their best and worst performing products and make informed decisions about product investment, divestment, and relocation. The data used in this analysis was sourced from **[GitHub](https://github.com/chrisfrenchjr/SQLQueries/blob/main/Retail%20Sales%20Data.xlsx)** and uploaded them to Tableau., and is based on 1 year period (2020).
+This project is aimed to create a Sales dashboard for a retail food store and to enhance my data visualization skills in Tableau for current and future work. The dashboard presents product performance data for a retail store, with the goal of helping business leaders better understand their best and worst performing products and make informed decisions about product investment, divestment, and relocation. The data used in this analysis was sourced from **[GitHub](https://github.com/chrisfrenchjr/SQLQueries/blob/main/Retail%20Sales%20Data.xlsx)** and was then uploaded to Tableau. the data is based on 1 year period for the year 2020.
 
 Link to GitHub Project: **[Retail Store Product Dashboard](https://public.tableau.com/app/profile/jorge.jimenez4382/viz/RetailStoreProductDashboard_16802962618700/Dashboard1?publish=yes)**
 
