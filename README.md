@@ -31,4 +31,9 @@ The dashboard consists of several worksheets, each focusing on a specific aspect
 #### Interactive Filter Section: 
 The interactive filter section allows users to customize their view of the data by filtering it based on specific criteria such as order date, region, city, product, and salesperson. Users can select multiple filter options at once to further refine their analysis and gain deeper insights into the performance of their products and sales teams. With the ability to filter the data in real-time, users can quickly identify trends and opportunities for growth, optimize their product offerings, and maximize revenue.
 
-Link to GitHub Project: **[Retail Store Product Dashboard](https://public.tableau.com/app/profile/jorge.jimenez4382/viz/RetailStoreProductDashboard_16802962618700/Dashboard1?publish=yes)**
+## Conclusion
+The retail store performance dashboard provides a comprehensive view of the store's sales data, allowing users to identify trends, make data-driven decisions, and optimize their product offerings to maximize revenue. With the interactive filter section, users can quickly filter the data and gain deeper insights into the performance of their products and sales teams. Overall, this dashboard is a powerful tool for any retail store looking to improve their performance and increase profitability.
+
+
+
+
