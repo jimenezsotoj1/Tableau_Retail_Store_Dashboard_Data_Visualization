@@ -3,6 +3,8 @@
 ## Introduction
 This dashboard presents product performance data for a retail store, with the goal of helping business leaders better understand their best and worst performing products and make informed decisions about product investment, divestment, and relocation. The data used in this analysis was sourced from **[GitHub](https://github.com/chrisfrenchjr/SQLQueries/blob/main/Retail%20Sales%20Data.xlsx)** and uploaded them to Tableau., and is based on 1 year period (2020). The aim of this project is to enhance my data visualization skills in Tableau for current and future work. In this case study, I have used a sample dataset to create a Sales dashboard for a retail food store. 
 
+Link to GitHub Project: **[Retail Store Product Dashboard](https://public.tableau.com/app/profile/jorge.jimenez4382/viz/RetailStoreProductDashboard_16802962618700/Dashboard1?publish=yes)**
+
 ## Business Objectives
 The dashboard seeks to answer the following business questions:
 
@@ -26,6 +28,7 @@ The dashboard consists of several worksheets, each focusing on a specific aspect
 * Performance by Product Type: This chart displays the performance of each product category and its sub-products.
 * Top Sales by City: This chart displays the top sales for each city.
 
-Interactive Filter Section: The interactive filter section allows users to customize their view of the data by filtering it based on specific criteria such as order date, region, city, product, and salesperson. Users can select multiple filter options at once to further refine their analysis and gain deeper insights into the performance of their products and sales teams. With the ability to filter the data in real-time, users can quickly identify trends and opportunities for growth, optimize their product offerings, and maximize revenue.
+#### Interactive Filter Section: 
+The interactive filter section allows users to customize their view of the data by filtering it based on specific criteria such as order date, region, city, product, and salesperson. Users can select multiple filter options at once to further refine their analysis and gain deeper insights into the performance of their products and sales teams. With the ability to filter the data in real-time, users can quickly identify trends and opportunities for growth, optimize their product offerings, and maximize revenue.
 
 Link to GitHub Project: **[Retail Store Product Dashboard](https://public.tableau.com/app/profile/jorge.jimenez4382/viz/RetailStoreProductDashboard_16802962618700/Dashboard1?publish=yes)**
