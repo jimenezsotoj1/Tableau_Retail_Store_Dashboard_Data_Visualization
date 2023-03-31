@@ -1,7 +1,7 @@
 # Tableau_Retail_Store_Dashboard
 
 ## Introduction
-The purpose of this project is to practice my data visualization skills in Tableau so that I may continue implementing  it in my currrent/future work. For this case study, I decided to use a sample **[data](https://github.com/chrisfrenchjr/SQLQueries/blob/main/Retail%20Sales%20Data.xlsx)** set to create a Sales dashboard for a retail food store. 
+The purpose of this project is to practice my data visualization skills in Tableau so that I may continue implementing  it in my currrent/future work. For this case study, I decided to use a sample **[data](https://github.com/chrisfrenchjr/SQLQueries/blob/main/Retail%20Sales%20Data.xlsx)** set to create a Sales dashboard for a retail food store. With this in mind I aimed to solve the following questions.
 
 ## Business Tasks
 #### Business Tasks:
