@@ -16,7 +16,16 @@ The dashboard seeks to answer the following business questions:
 The csv file contained 10 columns and 123 rows of Data. It provides information onthe Sale Order date, Month, Region, City, Category, Product, Quantity, Unit Price, Total Price and Salesperson.
 
 #### Dashboard Overview:
-The dashboard is divided into several worksheets, each focusing on a specific aspect of the retail store's product performance. The main dashboard includes the following sections:
+The dashboard consists of several worksheets, each focusing on a specific aspect of the retail store's performance data. The main dashboard includes the following sections:
 
+* Total Sales: This chart displays the total sales for the selected time frame.
+* Items Sold: This chart displays the total number of items sold for the selected time frame.
+* % Changes in Sales by Month: This chart displays the percentage changes in sales for each month compared to the previous month.
+* Monthly Sale Amounts: This chart displays the total sales amount for each month.
+* Performance by Product: This table displays the performance of each product by category, rank, total sales, and total quantity sold.
+* Performance by Product Type: This chart displays the performance of each product category and its sub-products.
+* Top Sales by City: This chart displays the top sales for each city.
+
+Interactive Filter Section: The interactive filter section allows users to customize their view of the data by filtering it based on specific criteria such as order date, region, city, product, and salesperson. Users can select multiple filter options at once to further refine their analysis and gain deeper insights into the performance of their products and sales teams. With the ability to filter the data in real-time, users can quickly identify trends and opportunities for growth, optimize their product offerings, and maximize revenue.
 
 Link to GitHub Project: **[Retail Store Product Dashboard](https://public.tableau.com/app/profile/jorge.jimenez4382/viz/RetailStoreProductDashboard_16802962618700/Dashboard1?publish=yes)**
