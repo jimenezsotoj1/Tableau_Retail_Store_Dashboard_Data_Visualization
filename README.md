@@ -16,4 +16,4 @@ The dashboard seeks to answer the following business questions:
 #### Data Sources Used:
 I downloaded the CSV files from the **[Source](https://github.com/chrisfrenchjr/SQLQueries/blob/main/Retail%20Sales%20Data.xlsx)** and uploaded them to Tableau.
 
-Link to GitHub Project: 
+Link to GitHub Project: **[Retail Store Product Dashboard](https://public.tableau.com/app/profile/jorge.jimenez4382/viz/RetailStoreProductDashboard_16802962618700/Dashboard1?publish=yes)**
