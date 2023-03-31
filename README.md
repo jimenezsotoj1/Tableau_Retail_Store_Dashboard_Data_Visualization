@@ -15,4 +15,5 @@ The dashboard seeks to answer the following business questions:
 ## Process
 #### Data Sources Used:
 I downloaded the CSV files from the source and uploaded them to Tableau.
+
 Link to GitHub Project: **[Source Data](https://github.com/chrisfrenchjr/SQLQueries/blob/main/Retail%20Sales%20Data.xlsx)**
